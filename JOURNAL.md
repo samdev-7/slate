@@ -34,3 +34,16 @@ One of my goals is to make the badge as thin as possible. I want to be able to h
 ![IMG_5155](https://github.com/user-attachments/assets/e713df14-a52e-4294-8ccf-8010c34c1fa6)
 
 **Total time spent: 1h**
+
+# June 4th: Cad fixes and back plate
+
+So Onshape assemblies are weird... and because I did it wrong the first time (I mated it to the wrong face) causing things to clip and dimensions to be incorrect. An attempt to try to fix it messed up the references between the sketches. It was easier to re-cad it from scratch. Ah... I love Onshape...
+
+![image](https://github.com/user-attachments/assets/3bfff268-2524-4589-af92-40c49489eeac)
+![image](https://github.com/user-attachments/assets/1dd53cbd-2f76-41e7-a616-9e15e6a3602e)
+
+I also worked on the back plate to the name badge. I'm hoping a snap fit will be strong enough, but testing will be needed by printing it out!
+
+![image](https://github.com/user-attachments/assets/843f8b5e-165b-4e72-8268-63c95d222895)
+
+**Total time spent: 1hr**
