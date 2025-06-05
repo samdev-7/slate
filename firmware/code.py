@@ -30,20 +30,20 @@ BACKGROUND_COLOR = WHITE
 displayio.release_displays()
 
 # Define the pins needed for display use
-# This pinout is for a Feather M4 and may be different for other boards
+# This pinout is for an Orpheus Pico and may be different for other boards
 spi = busio.SPI(board.GP10, board.GP11, board.GP12)
 epd_cs = board.GP6
 epd_dc = board.GP7
 epd_reset = board.GP8
 epd_busy = board.GP9
 
-# # Create the displayio connection to the display pins
+# Create the displayio connection to the display pins
 display_bus = fourwire.FourWire(
     spi, command=epd_dc, chip_select=epd_cs, reset=epd_reset, baudrate=115200
 )
 time.sleep(1)  # Wait a bit
 
-# # Create the display object - the third color is red (0xff0000)
+# Create the display object - the third color is red (0xff0000)
 DISPLAY_WIDTH = 296
 DISPLAY_HEIGHT = 128
 
