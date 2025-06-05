@@ -1,2 +1,2 @@
 # slate
-A sleek e-ink name tag!
+A sleek e-ink name badge!
